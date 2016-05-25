@@ -216,6 +216,10 @@ img {
     margin: 40px 30px 50px 10px;
 }
 
+ nav a:first-child {
+    float: left;
+ }
+ 
 nav {
   text-align: center;
   margin-top: 23px; // @TODO: Vertically middle align
@@ -228,10 +232,6 @@ nav {
     display: block;
     font-size: 16px;
   }
- 
- nav a:first-child {
-    float: left;
- }
 
   a {
     margin-left: 20px;
