@@ -214,8 +214,11 @@ img {
     float: left;
  }
  
+.rightnav {
+    float: right;
+}
+ 
 nav {
-  float: right;
   text-align: center;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
