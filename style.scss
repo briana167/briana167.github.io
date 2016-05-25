@@ -215,7 +215,8 @@ img {
  }
  
 .centernav {
-    position: absolute;
+    position: fixed;
+    left: 50%;
  }
  
 nav {
