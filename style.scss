@@ -228,10 +228,10 @@ nav {
     display: block;
     font-size: 16px;
   }
-  
-  #home {
+ 
+ nav a:first-child {
     float: left;
-  }
+ }
 
   a {
     margin-left: 20px;
