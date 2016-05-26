@@ -26,7 +26,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  /*padding: 0 10px;*/
   width: 100%;
 }
 
@@ -130,7 +130,7 @@ img {
   background: $lightGray;
 }
 
-/*// Nicolas Gallagher's micro clearfix hack
+// Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
@@ -140,7 +140,7 @@ img {
 
 .clearfix:after {
     clear: both;
-}*/
+}
 
 /*********************/
 /* LAYOUT / SECTIONS */
