@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $gray;
+  color: $midGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $gray;
+    color: $midGray;
   }
 }
 
