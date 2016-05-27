@@ -19,14 +19,14 @@ I personally enjoyed the most.
 | [Carnegie Mellon](http://oli.cmu.edu/)                  |    |    | [Bento](https://www.bento.io/)                    |
 
 **Communities**  
-* [CodeNewbie](http://www.codenewbie.org/)* (podcast episodes, Twitter chats, Slack channels, etc.)  
-* [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)  
-* [/r/freecodecamp](https://www.reddit.com/r/freecodecamp)  
-* [Study Group on Facebook](https://www.facebook.com/groups/TOPSTUDYGROUP/)  
-* [Meetup](http://www.meetup.com/)  
+[CodeNewbie](http://www.codenewbie.org/)* (podcast episodes, Twitter chats, Slack channels, etc.)  
+[/r/learnprogramming](https://www.reddit.com/r/learnprogramming)  
+[/r/freecodecamp](https://www.reddit.com/r/freecodecamp)  
+[Study Group on Facebook](https://www.facebook.com/groups/TOPSTUDYGROUP/)  
+[Meetup](http://www.meetup.com/)  
 
 **Miscellaneous**  
-* [Project Euler](https://projecteuler.net/)  
-* [Zahada](http://www.mcgov.co.uk/zahada.html)  
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/131-rr-how-to-learn)* (esp the linked ep)  
-* [Free Code Camp on Twitch](https://www.twitch.tv/freecodecamp)*  
+[Project Euler](https://projecteuler.net/)  
+[Zahada](http://www.mcgov.co.uk/zahada.html)  
+[Ruby Rogues](https://devchat.tv/ruby-rogues/131-rr-how-to-learn)* (esp the linked ep)  
+[Free Code Camp on Twitch](https://www.twitch.tv/freecodecamp)*  
