@@ -3,7 +3,7 @@ layout: post
 title: Good news, everyone!
 ---
 
-Okay, but this is actually good news. I feel overwhelmingly blessed and grateful to be able to say that I'll be starting as a cohort[5] member @ Ada Developers Academy in August! Here's a rundown of my journey (warning: this goes way back) to get to this point.
+Okay, but this is actually good news. I feel overwhelmingly blessed and grateful to be able to say that I'll be starting as a cohort[5] student @ Ada Developers Academy in August! Here's a rundown of my journey (warning: this goes way back) to get to this point.
 
 ![Good news, everyone!](http://i.giphy.com/3o7abA4a0QCXtSxGN2.gif)
 
