@@ -150,10 +150,6 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .masthead {
   padding: 20px;
   text-align: center;
@@ -164,7 +160,7 @@ img {
   }
 }
 
-.site-info {
+/*.site-info {
   float: left;
 
   @include mobile {
@@ -172,7 +168,7 @@ img {
     display: block;
     margin: 0 auto;
   }
-}
+}*/
 
 .site-name {
   margin: 0;
