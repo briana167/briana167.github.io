@@ -32,7 +32,7 @@ I personally enjoyed the most.
 [Free Code Camp on Twitch](https://www.twitch.tv/freecodecamp)*  
 
 **Bootcamps/Post-Bacc Options**  
-These are the options I looked into, so they're Seattle-specific. 
+These are the options I looked into, so they're Seattle-specific.  
 [Ada Developers Academy](http://adadevelopersacademy.org/)  
 [Code Builders](http://code.builders/)  
 [Code Fellows](https://www.codefellows.org/)  
