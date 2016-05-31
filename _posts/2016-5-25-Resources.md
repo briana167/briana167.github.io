@@ -43,6 +43,6 @@ These are the options I looked into, so they're Seattle-specific.
 [Oregon State University (online B.S. in Computer Science)](http://eecs.oregonstate.edu/online-cs-students)  
 [University of British Columbia (in-person second-Bachelor's in Computer Science)](https://www.cs.ubc.ca/students/undergrad/programs/second-degree)  
 
-I also recommend putting together a doc with your research, so it's easier to compare. For example, below is an excerpt of my research doc. Please note that this data could be out-of-date by now!  
+I also recommend putting together a doc with your research, so it's easier to compare. For example, below is an excerpt of my research doc (meant to just show the type of info, but if you want my doc just contact me). Please note that this data could be out-of-date by now!  
 
 ![Bootcamps](http://i.imgur.com/rVlHF3h.png)
