@@ -32,6 +32,17 @@ I personally enjoyed the most.
 [Free Code Camp on Twitch](https://www.twitch.tv/freecodecamp)*  
 
 **Bootcamps/Post-Bacc Options**  
-These are the options I looked into, so they're Seattle-specific. Please note that this data could be out-of-date by now!  
+These are the options I looked into, so they're Seattle-specific. 
+[Ada Developers Academy](http://adadevelopersacademy.org/)  
+[Code Builders](http://code.builders/)  
+[Code Fellows](https://www.codefellows.org/)  
+[Coding Dojo](http://www.codingdojo.com/)  
+[Dev Bootcamp](http://devbootcamp.com/)  
+[Galvanize](http://www.galvanize.com/)  
+[General Assembly](https://generalassemb.ly/)  
+[Oregon State University (online B.S. in Computer Science)](http://eecs.oregonstate.edu/online-cs-students)  
+[University of British Columbia (in-person second-Bachelor's in Computer Science)](https://www.cs.ubc.ca/students/undergrad/programs/second-degree)  
+
+I also recommend putting together a doc with your research, so it's easier to compare. For example, below is an excerpt of my research doc. Please note that this data could be out-of-date by now!  
 
 ![Bootcamps](http://i.imgur.com/rVlHF3h.png)
