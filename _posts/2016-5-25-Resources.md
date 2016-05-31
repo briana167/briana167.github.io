@@ -6,7 +6,7 @@ title: Online learning resources
 Since I did a bunch of poking around to find different resources, I thought I'd share them! The ones with asterisks are the ones
 I personally enjoyed the most.
 
-**Courses**  
+**Online Courses**  
 
 | Lecture Style                                           |    |    | Tutorial Style                                    |
 | --------------------------------------------------------|----|----| -------------------                               |
@@ -30,3 +30,8 @@ I personally enjoyed the most.
 [Zahada](http://www.mcgov.co.uk/zahada.html)  
 [Ruby Rogues](https://devchat.tv/ruby-rogues/131-rr-how-to-learn)* (esp the linked ep)  
 [Free Code Camp on Twitch](https://www.twitch.tv/freecodecamp)*  
+
+**Bootcamps/Post-Bacc Options**  
+These are the options I looked into, so they're Seattle-specific. Please note that this data could be out-of-date by now!  
+
+![Bootcamps](http://i.imgur.com/rVlHF3h.png)
