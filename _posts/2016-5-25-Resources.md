@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online learning resources
+title: Resource of resources
 ---
 
 Since I did a bunch of poking around to find different resources, I thought I'd share them! The ones with asterisks are the ones
