@@ -25,8 +25,6 @@ body {
 
 .container {
   margin: auto;
-  display: table-cell;
-  vertical-align: middle;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -38,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   //line-height: 1.7;
-  margin: 1em 0 5px;
+  margin: 5em 0 5px;
   padding: 0;
 
   @include mobile {
