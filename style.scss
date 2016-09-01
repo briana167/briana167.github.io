@@ -21,10 +21,11 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  display: flex;
 }
 
 .container {
-  margin: auto;
+  margin: auto auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
